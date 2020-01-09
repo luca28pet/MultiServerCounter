@@ -1,6 +1,8 @@
 # MultiServerCounter
 A PocketMine-MP plugin that combines online players counts of multiple servers.
 
+*Latest development phars: https://poggit.pmmp.io/ci/luca28pet/MultiServerCounter/MultiServerCounter*
+
 This is useful e.g. when you have a lobby server and other gamemodes on different servers, and you want the lobby server to display  the number of players of all the servers, combined, when queried from a server list or the menu in the MCBE client.
 
 **How to use:**
